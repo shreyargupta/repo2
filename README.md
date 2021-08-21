@@ -4,3 +4,4 @@ This is changes made on local repository to readme file. This needs to be pushed
 * A new change to test git pull --all cmd
 * An update to test the rebase feature
 * Another update to test rebase
+* A beautiful update for tags
